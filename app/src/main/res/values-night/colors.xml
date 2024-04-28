@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="primary_color">#141A2E</color>
+    <color name="text_color">@color/white</color>
+    <color name="text_color_details">#FACC1D</color>
+    <color name="azkar_counter_text_color">@color/black</color>
+    <color name="azkar_tv_color">@color/white</color>
+    <color name="azkar_counter_color">#141A2E</color>
+    <color name="line_view_color">#FACC1D</color>
+    <color name="azkar_btn_color">@color/primary_color</color>
+    <color name="azkar_btn_text_color">@color/black</color>
+    <color name="item_details_Colors">#FFFACC1D</color>
+</resources>
