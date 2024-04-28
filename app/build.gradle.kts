@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.route.week4_islami"
+    namespace = "islami"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.route.week4_islami"
+        applicationId = "com.route.islami"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

@@ -1,11 +1,11 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.Week4islami" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.islami" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     <item name="colorPrimary">@color/primary_color</item>
         <item name="colorPrimaryVariant">@color/primary_color</item>
     </style>
 
-    <style name="Theme.Week4islami" parent="Base.Theme.Week4islami" />
+    <style name="Theme.islami" parent="Base.Theme.islami" />
 </resources>
